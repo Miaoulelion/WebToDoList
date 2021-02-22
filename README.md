@@ -9,6 +9,7 @@ Dans le cadre du cours de Web, Cyrille Perois a proposé de développer une appl
 ## Auteurs
 
 BERTHIER Nicolas : nicolas-berthier@orange.fr (chatgarou-code / miaoulelion)
+
 ESCOFFIER Vincent : alainvincentesc@gmail.com  
 JALLAIS Adrien : adrien.jallais@protonmail.com  
 
